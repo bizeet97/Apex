@@ -8,3 +8,6 @@ git revert
 git config
 git status
 git init
+git show
+git tag
+git checkout
