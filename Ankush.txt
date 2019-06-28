@@ -1,0 +1,10 @@
+1. git init
+2. git status
+3. git config
+4. git log
+5. git commit -m "<message>"
+6. git diff
+7. git clone
+8. git branch <branchName>
+9. git checkout
+10.git merge
