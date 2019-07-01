@@ -1,11 +1,10 @@
-
- git reset [commit]
- git diff --staged
- git show [commit]
- git fetch [bookmark]
- git show [commit]
- git pull
- git rm
- git branch [branch-name]
- git stash
- git revert
+git reset [commit]
+git diff --staged
+git show [commit]
+git fetch [bookmark]
+git show [commit]
+git pull
+git rm
+git branch [branch-name]
+git stash
+git revert
